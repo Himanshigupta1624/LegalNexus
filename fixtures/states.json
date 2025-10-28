@@ -1,0 +1,155 @@
+[
+  {
+    "model": "base.state",
+    "pk": 1,
+    "fields": {
+      "country": 1,
+      "name": "Delhi",
+      "code": "DL"
+    }
+  },
+  {
+    "model": "base.state",
+    "pk": 2,
+    "fields": {
+      "country": 1,
+      "name": "Maharashtra",
+      "code": "MH"
+    }
+  },
+  {
+    "model": "base.state",
+    "pk": 3,
+    "fields": {
+      "country": 1,
+      "name": "Karnataka",
+      "code": "KA"
+    }
+  },
+  {
+    "model": "base.state",
+    "pk": 4,
+    "fields": {
+      "country": 1,
+      "name": "Tamil Nadu",
+      "code": "TN"
+    }
+  },
+  {
+    "model": "base.state",
+    "pk": 5,
+    "fields": {
+      "country": 1,
+      "name": "Gujarat",
+      "code": "GJ"
+    }
+  },
+  {
+    "model": "base.state",
+    "pk": 6,
+    "fields": {
+      "country": 1,
+      "name": "Rajasthan",
+      "code": "RJ"
+    }
+  },
+  {
+    "model": "base.state",
+    "pk": 7,
+    "fields": {
+      "country": 1,
+      "name": "Uttar Pradesh",
+      "code": "UP"
+    }
+  },
+  {
+    "model": "base.state",
+    "pk": 8,
+    "fields": {
+      "country": 1,
+      "name": "West Bengal",
+      "code": "WB"
+    }
+  },
+  {
+    "model": "base.state",
+    "pk": 9,
+    "fields": {
+      "country": 1,
+      "name": "Telangana",
+      "code": "TG"
+    }
+  },
+  {
+    "model": "base.state",
+    "pk": 10,
+    "fields": {
+      "country": 1,
+      "name": "Punjab",
+      "code": "PB"
+    }
+  },
+  {
+    "model": "base.state",
+    "pk": 11,
+    "fields": {
+      "country": 2,
+      "name": "California",
+      "code": "CA"
+    }
+  },
+  {
+    "model": "base.state",
+    "pk": 12,
+    "fields": {
+      "country": 2,
+      "name": "New York",
+      "code": "NY"
+    }
+  },
+  {
+    "model": "base.state",
+    "pk": 13,
+    "fields": {
+      "country": 2,
+      "name": "Texas",
+      "code": "TX"
+    }
+  },
+  {
+    "model": "base.state",
+    "pk": 14,
+    "fields": {
+      "country": 2,
+      "name": "Florida",
+      "code": "FL"
+    }
+  },
+  {
+    "model": "base.state",
+    "pk": 15,
+    "fields": {
+      "country": 3,
+      "name": "England",
+      "code": "ENG"
+    }
+  },
+  {
+    "model": "base.state",
+    "pk": 16,
+    "fields": {
+      "country": 3,
+      "name": "Scotland",
+      "code": "SCT"
+    }
+  },
+  {
+    "model": "base.state",
+    "pk": 17,
+    "fields": {
+      "country": 3,
+      "name": "Wales",
+      "code": "WLS"
+    }
+  }
+]

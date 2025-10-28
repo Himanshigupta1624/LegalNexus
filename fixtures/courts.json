@@ -1,0 +1,322 @@
+[
+  {
+    "model": "base.court",
+    "pk": 1,
+    "fields": {
+      "name": "Supreme Court of India",
+      "court_type": "supreme",
+      "address": "Tilak Marg, New Delhi",
+      "country": 1,
+      "state": 1,
+      "city": 1,
+      "phone": "+91-11-23388922",
+      "email": "supremecourt@nic.in",
+      "website": "https://main.sci.gov.in",
+      "is_active": true
+    }
+  },
+  {
+    "model": "base.court",
+    "pk": 2,
+    "fields": {
+      "name": "Delhi High Court",
+      "court_type": "high",
+      "address": "Sher Shah Road, New Delhi",
+      "country": 1,
+      "state": 1,
+      "city": 1,
+      "phone": "+91-11-23862595",
+      "email": "delhihighcourt@nic.in",
+      "website": "https://delhihighcourt.nic.in",
+      "is_active": true
+    }
+  },
+  {
+    "model": "base.court",
+    "pk": 3,
+    "fields": {
+      "name": "Bombay High Court",
+      "court_type": "high",
+      "address": "Fort, Mumbai",
+      "country": 1,
+      "state": 2,
+      "city": 4,
+      "phone": "+91-22-22620191",
+      "email": "bombayhc@nic.in",
+      "website": "https://bombayhighcourt.nic.in",
+      "is_active": true
+    }
+  },
+  {
+    "model": "base.court",
+    "pk": 4,
+    "fields": {
+      "name": "Karnataka High Court",
+      "court_type": "high",
+      "address": "Dr. Ambedkar Veedhi, Bangalore",
+      "country": 1,
+      "state": 3,
+      "city": 7,
+      "phone": "+91-80-22861983",
+      "email": "karnatakaHighcourt@nic.in",
+      "website": "https://karnatakajudiciary.kar.nic.in",
+      "is_active": true
+    }
+  },
+  {
+    "model": "base.court",
+    "pk": 5,
+    "fields": {
+      "name": "Madras High Court",
+      "court_type": "high",
+      "address": "High Court Campus, Chennai",
+      "country": 1,
+      "state": 4,
+      "city": 10,
+      "phone": "+91-44-25344452",
+      "email": "madrashc@nic.in",
+      "website": "https://www.hcmadras.tn.nic.in",
+      "is_active": true
+    }
+  },
+  {
+    "model": "base.court",
+    "pk": 6,
+    "fields": {
+      "name": "Gujarat High Court",
+      "court_type": "high",
+      "address": "Sola, Ahmedabad",
+      "country": 1,
+      "state": 5,
+      "city": 13,
+      "phone": "+91-79-23969340",
+      "email": "gujarathc@nic.in",
+      "website": "https://gujarathighcourt.nic.in",
+      "is_active": true
+    }
+  },
+  {
+    "model": "base.court",
+    "pk": 7,
+    "fields": {
+      "name": "Rajasthan High Court",
+      "court_type": "high",
+      "address": "Jodhpur Bench, Jodhpur",
+      "country": 1,
+      "state": 6,
+      "city": 17,
+      "phone": "+91-291-2544535",
+      "email": "rajasthanhc@nic.in",
+      "website": "https://hcraj.nic.in",
+      "is_active": true
+    }
+  },
+  {
+    "model": "base.court",
+    "pk": 8,
+    "fields": {
+      "name": "Allahabad High Court",
+      "court_type": "high",
+      "address": "Civil Lines, Allahabad",
+      "country": 1,
+      "state": 7,
+      "city": 19,
+      "phone": "+91-532-2407191",
+      "email": "allahabadhc@nic.in",
+      "website": "https://allahabadhighcourt.in",
+      "is_active": true
+    }
+  },
+  {
+    "model": "base.court",
+    "pk": 9,
+    "fields": {
+      "name": "Calcutta High Court",
+      "court_type": "high",
+      "address": "Esplanade, Kolkata",
+      "country": 1,
+      "state": 8,
+      "city": 22,
+      "phone": "+91-33-22523979",
+      "email": "calcuttahc@nic.in",
+      "website": "https://calcuttahighcourt.gov.in",
+      "is_active": true
+    }
+  },
+  {
+    "model": "base.court",
+    "pk": 10,
+    "fields": {
+      "name": "Telangana High Court",
+      "court_type": "high",
+      "address": "Nampally Station Road, Hyderabad",
+      "country": 1,
+      "state": 9,
+      "city": 23,
+      "phone": "+91-40-24589546",
+      "email": "telanganahc@nic.in",
+      "website": "https://hc.ts.nic.in",
+      "is_active": true
+    }
+  },
+  {
+    "model": "base.court",
+    "pk": 11,
+    "fields": {
+      "name": "Patiala House District Court",
+      "court_type": "district",
+      "address": "Parliament Street, New Delhi",
+      "country": 1,
+      "state": 1,
+      "city": 1,
+      "phone": "+91-11-23363815",
+      "email": "patialahouse@delhicourts.nic.in",
+      "website": "",
+      "is_active": true
+    }
+  },
+  {
+    "model": "base.court",
+    "pk": 12,
+    "fields": {
+      "name": "Tis Hazari District Court",
+      "court_type": "district",
+      "address": "Tis Hazari, Delhi",
+      "country": 1,
+      "state": 1,
+      "city": 1,
+      "phone": "+91-11-27651156",
+      "email": "tishazari@delhicourts.nic.in",
+      "website": "",
+      "is_active": true
+    }
+  },
+  {
+    "model": "base.court",
+    "pk": 13,
+    "fields": {
+      "name": "Saket District Court",
+      "court_type": "district",
+      "address": "Saket, New Delhi",
+      "country": 1,
+      "state": 1,
+      "city": 1,
+      "phone": "+91-11-29565958",
+      "email": "saket@delhicourts.nic.in",
+      "website": "",
+      "is_active": true
+    }
+  },
+  {
+    "model": "base.court",
+    "pk": 14,
+    "fields": {
+      "name": "Dwarka District Court",
+      "court_type": "district",
+      "address": "Sector 10, Dwarka",
+      "country": 1,
+      "state": 1,
+      "city": 2,
+      "phone": "+91-11-28034456",
+      "email": "dwarka@delhicourts.nic.in",
+      "website": "",
+      "is_active": true
+    }
+  },
+  {
+    "model": "base.court",
+    "pk": 15,
+    "fields": {
+      "name": "Mumbai City Civil Court",
+      "court_type": "district",
+      "address": "Dindoshi, Mumbai",
+      "country": 1,
+      "state": 2,
+      "city": 4,
+      "phone": "+91-22-28450260",
+      "email": "mumbaicity@maharashtra.gov.in",
+      "website": "",
+      "is_active": true
+    }
+  },
+  {
+    "model": "base.court",
+    "pk": 16,
+    "fields": {
+      "name": "Bangalore City Civil Court",
+      "court_type": "district",
+      "address": "Mayo Hall, Bangalore",
+      "country": 1,
+      "state": 3,
+      "city": 7,
+      "phone": "+91-80-22867550",
+      "email": "bangalorecity@karnataka.gov.in",
+      "website": "",
+      "is_active": true
+    }
+  },
+  {
+    "model": "base.court",
+    "pk": 17,
+    "fields": {
+      "name": "US Supreme Court",
+      "court_type": "supreme",
+      "address": "1 First Street NE, Washington, DC",
+      "country": 2,
+      "state": null,
+      "city": null,
+      "phone": "+1-202-479-3000",
+      "email": "info@supremecourt.gov",
+      "website": "https://www.supremecourt.gov",
+      "is_active": true
+    }
+  },
+  {
+    "model": "base.court",
+    "pk": 18,
+    "fields": {
+      "name": "California Superior Court - Los Angeles",
+      "court_type": "district",
+      "address": "111 N Hill St, Los Angeles, CA",
+      "country": 2,
+      "state": 11,
+      "city": 26,
+      "phone": "+1-213-830-0800",
+      "email": "info@lacourt.org",
+      "website": "https://www.lacourt.org",
+      "is_active": true
+    }
+  },
+  {
+    "model": "base.court",
+    "pk": 19,
+    "fields": {
+      "name": "New York Supreme Court",
+      "court_type": "district",
+      "address": "60 Centre Street, New York, NY",
+      "country": 2,
+      "state": 12,
+      "city": 29,
+      "phone": "+1-646-386-5700",
+      "email": "info@nycourts.gov",
+      "website": "https://www.nycourts.gov",
+      "is_active": true
+    }
+  },
+  {
+    "model": "base.court",
+    "pk": 20,
+    "fields": {
+      "name": "UK Supreme Court",
+      "court_type": "supreme",
+      "address": "Parliament Square, London",
+      "country": 3,
+      "state": 15,
+      "city": 35,
+      "phone": "+44-20-7960-1900",
+      "email": "enquiries@supremecourt.uk",
+      "website": "https://www.supremecourt.uk",
+      "is_active": true
+    }
+  }
+]

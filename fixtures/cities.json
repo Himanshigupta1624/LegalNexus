@@ -1,0 +1,322 @@
+[
+  {
+    "model": "base.city",
+    "pk": 1,
+    "fields": {
+      "state": 1,
+      "name": "New Delhi"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 2,
+    "fields": {
+      "state": 1,
+      "name": "Dwarka"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 3,
+    "fields": {
+      "state": 1,
+      "name": "Rohini"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 4,
+    "fields": {
+      "state": 2,
+      "name": "Mumbai"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 5,
+    "fields": {
+      "state": 2,
+      "name": "Pune"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 6,
+    "fields": {
+      "state": 2,
+      "name": "Nagpur"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 7,
+    "fields": {
+      "state": 3,
+      "name": "Bangalore"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 8,
+    "fields": {
+      "state": 3,
+      "name": "Mysore"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 9,
+    "fields": {
+      "state": 3,
+      "name": "Mangalore"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 10,
+    "fields": {
+      "state": 4,
+      "name": "Chennai"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 11,
+    "fields": {
+      "state": 4,
+      "name": "Coimbatore"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 12,
+    "fields": {
+      "state": 4,
+      "name": "Madurai"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 13,
+    "fields": {
+      "state": 5,
+      "name": "Ahmedabad"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 14,
+    "fields": {
+      "state": 5,
+      "name": "Surat"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 15,
+    "fields": {
+      "state": 5,
+      "name": "Vadodara"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 16,
+    "fields": {
+      "state": 6,
+      "name": "Jaipur"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 17,
+    "fields": {
+      "state": 6,
+      "name": "Jodhpur"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 18,
+    "fields": {
+      "state": 6,
+      "name": "Udaipur"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 19,
+    "fields": {
+      "state": 7,
+      "name": "Lucknow"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 20,
+    "fields": {
+      "state": 7,
+      "name": "Kanpur"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 21,
+    "fields": {
+      "state": 7,
+      "name": "Agra"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 22,
+    "fields": {
+      "state": 8,
+      "name": "Kolkata"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 23,
+    "fields": {
+      "state": 9,
+      "name": "Hyderabad"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 24,
+    "fields": {
+      "state": 10,
+      "name": "Chandigarh"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 25,
+    "fields": {
+      "state": 10,
+      "name": "Ludhiana"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 26,
+    "fields": {
+      "state": 11,
+      "name": "Los Angeles"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 27,
+    "fields": {
+      "state": 11,
+      "name": "San Francisco"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 28,
+    "fields": {
+      "state": 11,
+      "name": "San Diego"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 29,
+    "fields": {
+      "state": 12,
+      "name": "New York City"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 30,
+    "fields": {
+      "state": 12,
+      "name": "Buffalo"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 31,
+    "fields": {
+      "state": 13,
+      "name": "Houston"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 32,
+    "fields": {
+      "state": 13,
+      "name": "Dallas"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 33,
+    "fields": {
+      "state": 14,
+      "name": "Miami"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 34,
+    "fields": {
+      "state": 14,
+      "name": "Orlando"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 35,
+    "fields": {
+      "state": 15,
+      "name": "London"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 36,
+    "fields": {
+      "state": 15,
+      "name": "Manchester"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 37,
+    "fields": {
+      "state": 15,
+      "name": "Birmingham"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 38,
+    "fields": {
+      "state": 16,
+      "name": "Edinburgh"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 39,
+    "fields": {
+      "state": 16,
+      "name": "Glasgow"
+    }
+  },
+  {
+    "model": "base.city",
+    "pk": 40,
+    "fields": {
+      "state": 17,
+      "name": "Cardiff"
+    }
+  }
+]

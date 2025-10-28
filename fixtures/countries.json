@@ -1,0 +1,92 @@
+[
+  {
+    "model": "base.country",
+    "pk": 1,
+    "fields": {
+      "name": "India",
+      "code": "IN",
+      "phone_code": "+91"
+    }
+  },
+  {
+    "model": "base.country",
+    "pk": 2,
+    "fields": {
+      "name": "United States",
+      "code": "US",
+      "phone_code": "+1"
+    }
+  },
+  {
+    "model": "base.country",
+    "pk": 3,
+    "fields": {
+      "name": "United Kingdom",
+      "code": "GB",
+      "phone_code": "+44"
+    }
+  },
+  {
+    "model": "base.country",
+    "pk": 4,
+    "fields": {
+      "name": "Canada",
+      "code": "CA",
+      "phone_code": "+1"
+    }
+  },
+  {
+    "model": "base.country",
+    "pk": 5,
+    "fields": {
+      "name": "Australia",
+      "code": "AU",
+      "phone_code": "+61"
+    }
+  },
+  {
+    "model": "base.country",
+    "pk": 6,
+    "fields": {
+      "name": "United Arab Emirates",
+      "code": "AE",
+      "phone_code": "+971"
+    }
+  },
+  {
+    "model": "base.country",
+    "pk": 7,
+    "fields": {
+      "name": "Singapore",
+      "code": "SG",
+      "phone_code": "+65"
+    }
+  },
+  {
+    "model": "base.country",
+    "pk": 8,
+    "fields": {
+      "name": "Germany",
+      "code": "DE",
+      "phone_code": "+49"
+    }
+  },
+  {
+    "model": "base.country",
+    "pk": 9,
+    "fields": {
+      "name": "France",
+      "code": "FR",
+      "phone_code": "+33"
+    }
+  },
+  {
+    "model": "base.country",
+    "pk": 10,
+    "fields": {
+      "name": "Japan",
+      "code": "JP",
+      "phone_code": "+81"
+    }
+  }
+]
