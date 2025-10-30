@@ -1,6 +1,6 @@
 [
   {
-    "model": "base.country",
+    "model": "courts.country",
     "pk": 1,
     "fields": {
       "name": "India",
@@ -9,7 +9,7 @@
     }
   },
   {
-    "model": "base.country",
+    "model": "courts.country",
     "pk": 2,
     "fields": {
       "name": "United States",
@@ -18,7 +18,7 @@
     }
   },
   {
-    "model": "base.country",
+    "model": "courts.country",
     "pk": 3,
     "fields": {
       "name": "United Kingdom",
@@ -27,7 +27,7 @@
     }
   },
   {
-    "model": "base.country",
+    "model": "courts.country",
     "pk": 4,
     "fields": {
       "name": "Canada",
@@ -36,7 +36,7 @@
     }
   },
   {
-    "model": "base.country",
+    "model": "courts.country",
     "pk": 5,
     "fields": {
       "name": "Australia",
@@ -45,7 +45,7 @@
     }
   },
   {
-    "model": "base.country",
+    "model": "courts.country",
     "pk": 6,
     "fields": {
       "name": "United Arab Emirates",
@@ -54,7 +54,7 @@
     }
   },
   {
-    "model": "base.country",
+    "model": "courts.country",
     "pk": 7,
     "fields": {
       "name": "Singapore",
@@ -63,7 +63,7 @@
     }
   },
   {
-    "model": "base.country",
+    "model": "courts.country",
     "pk": 8,
     "fields": {
       "name": "Germany",
@@ -72,7 +72,7 @@
     }
   },
   {
-    "model": "base.country",
+    "model": "courts.country",
     "pk": 9,
     "fields": {
       "name": "France",
@@ -81,7 +81,7 @@
     }
   },
   {
-    "model": "base.country",
+    "model": "courts.country",
     "pk": 10,
     "fields": {
       "name": "Japan",

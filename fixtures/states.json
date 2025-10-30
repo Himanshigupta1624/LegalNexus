@@ -1,6 +1,6 @@
 [
   {
-    "model": "base.state",
+    "model": "courts.state",
     "pk": 1,
     "fields": {
       "country": 1,
@@ -9,7 +9,7 @@
     }
   },
   {
-    "model": "base.state",
+    "model": "courts.state",
     "pk": 2,
     "fields": {
       "country": 1,
@@ -18,7 +18,7 @@
     }
   },
   {
-    "model": "base.state",
+    "model": "courts.state",
     "pk": 3,
     "fields": {
       "country": 1,
@@ -27,7 +27,7 @@
     }
   },
   {
-    "model": "base.state",
+    "model": "courts.state",
     "pk": 4,
     "fields": {
       "country": 1,
@@ -36,7 +36,7 @@
     }
   },
   {
-    "model": "base.state",
+    "model": "courts.state",
     "pk": 5,
     "fields": {
       "country": 1,
@@ -45,7 +45,7 @@
     }
   },
   {
-    "model": "base.state",
+    "model": "courts.state",
     "pk": 6,
     "fields": {
       "country": 1,
@@ -54,7 +54,7 @@
     }
   },
   {
-    "model": "base.state",
+    "model": "courts.state",
     "pk": 7,
     "fields": {
       "country": 1,
@@ -63,7 +63,7 @@
     }
   },
   {
-    "model": "base.state",
+    "model": "courts.state",
     "pk": 8,
     "fields": {
       "country": 1,
@@ -72,7 +72,7 @@
     }
   },
   {
-    "model": "base.state",
+    "model": "courts.state",
     "pk": 9,
     "fields": {
       "country": 1,
@@ -81,7 +81,7 @@
     }
   },
   {
-    "model": "base.state",
+    "model": "courts.state",
     "pk": 10,
     "fields": {
       "country": 1,
@@ -90,7 +90,7 @@
     }
   },
   {
-    "model": "base.state",
+    "model": "courts.state",
     "pk": 11,
     "fields": {
       "country": 2,
@@ -99,7 +99,7 @@
     }
   },
   {
-    "model": "base.state",
+    "model": "courts.state",
     "pk": 12,
     "fields": {
       "country": 2,
@@ -108,7 +108,7 @@
     }
   },
   {
-    "model": "base.state",
+    "model": "courts.state",
     "pk": 13,
     "fields": {
       "country": 2,
@@ -117,7 +117,7 @@
     }
   },
   {
-    "model": "base.state",
+    "model": "courts.state",
     "pk": 14,
     "fields": {
       "country": 2,
@@ -126,7 +126,7 @@
     }
   },
   {
-    "model": "base.state",
+    "model": "courts.state",
     "pk": 15,
     "fields": {
       "country": 3,
@@ -135,7 +135,7 @@
     }
   },
   {
-    "model": "base.state",
+    "model": "courts.state",
     "pk": 16,
     "fields": {
       "country": 3,
@@ -144,7 +144,7 @@
     }
   },
   {
-    "model": "base.state",
+    "model": "courts.state",
     "pk": 17,
     "fields": {
       "country": 3,

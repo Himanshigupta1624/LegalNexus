@@ -8,7 +8,18 @@ class UserManager(BaseUserManager):
         if not email:
             raise ValueError('The Email field must be set')
         email = self.normalize_email(email)
-        user = self.model(email=email, **extra_fields)
+        # Ensure username is set (AbstractUser keeps a unique username field).
+        # Use email as username (truncated if necessary) to avoid UNIQUE constraint on username.
+        username = email
+        try:
+            username_field = self.model._meta.get_field('username')
+            max_len = getattr(username_field, 'max_length', None)
+            if max_len and len(username) > max_len:
+                username = username[:max_len]
+        except Exception:
+            # If the model does not have a username field, ignore
+            pass
+        user = self.model(email=email, username=username, **extra_fields)
         user.set_password(password)
         user.save(using=self._db)
         return user

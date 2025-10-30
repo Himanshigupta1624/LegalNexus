@@ -1,6 +1,6 @@
 [
   {
-    "model": "base.court",
+  "model": "courts.court",
     "pk": 1,
     "fields": {
       "name": "Supreme Court of India",
@@ -16,7 +16,7 @@
     }
   },
   {
-    "model": "base.court",
+  "model": "courts.court",
     "pk": 2,
     "fields": {
       "name": "Delhi High Court",
@@ -32,7 +32,7 @@
     }
   },
   {
-    "model": "base.court",
+  "model": "courts.court",
     "pk": 3,
     "fields": {
       "name": "Bombay High Court",
@@ -48,7 +48,7 @@
     }
   },
   {
-    "model": "base.court",
+  "model": "courts.court",
     "pk": 4,
     "fields": {
       "name": "Karnataka High Court",
@@ -64,7 +64,7 @@
     }
   },
   {
-    "model": "base.court",
+  "model": "courts.court",
     "pk": 5,
     "fields": {
       "name": "Madras High Court",
@@ -80,7 +80,7 @@
     }
   },
   {
-    "model": "base.court",
+  "model": "courts.court",
     "pk": 6,
     "fields": {
       "name": "Gujarat High Court",
@@ -96,7 +96,7 @@
     }
   },
   {
-    "model": "base.court",
+  "model": "courts.court",
     "pk": 7,
     "fields": {
       "name": "Rajasthan High Court",
@@ -112,7 +112,7 @@
     }
   },
   {
-    "model": "base.court",
+  "model": "courts.court",
     "pk": 8,
     "fields": {
       "name": "Allahabad High Court",
@@ -128,7 +128,7 @@
     }
   },
   {
-    "model": "base.court",
+  "model": "courts.court",
     "pk": 9,
     "fields": {
       "name": "Calcutta High Court",
@@ -144,7 +144,7 @@
     }
   },
   {
-    "model": "base.court",
+  "model": "courts.court",
     "pk": 10,
     "fields": {
       "name": "Telangana High Court",
@@ -160,7 +160,7 @@
     }
   },
   {
-    "model": "base.court",
+  "model": "courts.court",
     "pk": 11,
     "fields": {
       "name": "Patiala House District Court",
@@ -176,7 +176,7 @@
     }
   },
   {
-    "model": "base.court",
+  "model": "courts.court",
     "pk": 12,
     "fields": {
       "name": "Tis Hazari District Court",
@@ -192,7 +192,7 @@
     }
   },
   {
-    "model": "base.court",
+  "model": "courts.court",
     "pk": 13,
     "fields": {
       "name": "Saket District Court",
@@ -208,7 +208,7 @@
     }
   },
   {
-    "model": "base.court",
+  "model": "courts.court",
     "pk": 14,
     "fields": {
       "name": "Dwarka District Court",
@@ -224,7 +224,7 @@
     }
   },
   {
-    "model": "base.court",
+  "model": "courts.court",
     "pk": 15,
     "fields": {
       "name": "Mumbai City Civil Court",
@@ -240,7 +240,7 @@
     }
   },
   {
-    "model": "base.court",
+  "model": "courts.court",
     "pk": 16,
     "fields": {
       "name": "Bangalore City Civil Court",
@@ -256,7 +256,7 @@
     }
   },
   {
-    "model": "base.court",
+  "model": "courts.court",
     "pk": 17,
     "fields": {
       "name": "US Supreme Court",
@@ -272,7 +272,7 @@
     }
   },
   {
-    "model": "base.court",
+  "model": "courts.court",
     "pk": 18,
     "fields": {
       "name": "California Superior Court - Los Angeles",
@@ -288,7 +288,7 @@
     }
   },
   {
-    "model": "base.court",
+  "model": "courts.court",
     "pk": 19,
     "fields": {
       "name": "New York Supreme Court",
@@ -304,7 +304,7 @@
     }
   },
   {
-    "model": "base.court",
+    "model": "courts.court",
     "pk": 20,
     "fields": {
       "name": "UK Supreme Court",
